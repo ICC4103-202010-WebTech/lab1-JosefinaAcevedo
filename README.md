@@ -1,6 +1,7 @@
 Web Technologies - Lab 1 - Report - Josefina Acevedo
 
-3.3. The structure of the document is as follows,
+3.3. 
+	The structure of the document is as follows,
 	Firstly, there is the html element which opens a space for coding in html, then
 	there is the head element which contains the title of the document (Hacker News), 
 	links to external sheets which contain the aesthetics of the site and references not 
@@ -18,12 +19,14 @@ Web Technologies - Lab 1 - Report - Josefina Acevedo
 	is closed encapsulating the information in it.
 
 
-3.4. The main difference between the two files is that the one that starts with hn.js has 
+3.4. 
+	The main difference between the two files is that the one that starts with hn.js has 
 	the purpose of showing functionalities of the site such as link redirection and other 
 	attributes of the site, meanwhile the news.css establishes the aesthetics of the site, 
 	such as the margin distance, the font of the text, colors and position of other elements.
 
-3.5. It took 7 requests to downlad the hacker main page
+3.5. 
+	It took 7 requests to downlad the hacker main page
 	https://news.ycombinator.com/, https://news.ycombinator.com/y18.gif, 
 	https://news.ycombinator.com/s.gif, https://news.ycombinator.com/hn.js?FipHmofufc0acGUN2LQH, 
 	https://news.ycombinator.com/grayarrow.gif and https://news.ycombinator.com/favicon.ico 
