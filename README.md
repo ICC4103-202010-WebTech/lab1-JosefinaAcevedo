@@ -8,8 +8,8 @@ Web Technologies - Lab 1 - Report - Josefina Acevedo
 	Next, there is the body of the document, this is where the content of the document 
 	is exposed, where the links to the different documents are contained. before starting 
 	the content it attributes the element center to it so it craetes a box where its elements 
-	are centered. Then, The table element sets the different links into rows with their individual 
-	specifications.
+	are centered. Then, The table element divides the head from the bottom part and the different 
+	links into rows with their individual specifications using <tr> for rows and <td> for cells.
 	Finaly, the script element lets visitors redirect to the different documents that the
 	rows of the body contain.
 	Each element that appears for the second time with a slash (/) first marks where the feature 
