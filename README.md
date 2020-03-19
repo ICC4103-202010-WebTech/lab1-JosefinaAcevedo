@@ -1,13 +1,12 @@
 Web Technologies - Lab 1 - Report - Josefina Acevedo
 
-3.3. 
-	The structure of the document is as follows,
+3.3. The structure of the document is as follows,
 	Firstly, there is the html element which opens a space for coding in html, then
 	there is the head element which contains the title of the document (Hacker News), 
 	links to external sheets which contain the aesthetics of the site and references not 
 	visible to visitors.
 	
-	Next, there is the body of the document, this is where the content of the document 
+Next, there is the body of the document, this is where the content of the document 
 	is exposed, where the links to the different documents are contained. before starting 
 	the content it attributes the element center to it so it craetes a box where its elements 
 	are centered. Then, The table element divides the head from the bottom part and the different 
@@ -15,7 +14,7 @@ Web Technologies - Lab 1 - Report - Josefina Acevedo
 	Finaly, the script element lets visitors redirect to the different documents that the
 	rows of the body contain.
 	
-	Each element that appears for the second time with a slash (/) first marks where the feature 
+Each element that appears for the second time with a slash (/) first marks where the feature 
 	is closed encapsulating the information in it.
 
 
