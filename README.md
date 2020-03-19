@@ -5,6 +5,7 @@ Web Technologies - Lab 1 - Report - Josefina Acevedo
 	there is the head element which contains the title of the document (Hacker News), 
 	links to external sheets which contain the aesthetics of the site and references not 
 	visible to visitors.
+	
 	Next, there is the body of the document, this is where the content of the document 
 	is exposed, where the links to the different documents are contained. before starting 
 	the content it attributes the element center to it so it craetes a box where its elements 
@@ -12,6 +13,7 @@ Web Technologies - Lab 1 - Report - Josefina Acevedo
 	links into rows with their individual specifications using <tr> for rows and <td> for cells.
 	Finaly, the script element lets visitors redirect to the different documents that the
 	rows of the body contain.
+	
 	Each element that appears for the second time with a slash (/) first marks where the feature 
 	is closed encapsulating the information in it.
 
